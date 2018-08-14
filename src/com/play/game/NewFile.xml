@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workers>
+    <worker id="A001">
+        <name>Mark</name>
+        <set>男</set>
+        <status>经理</status>
+        <address>北京</address>
+        <money>4000</money>
+    </worker>
+    <worker id="A002">
+        <name>Lucy</name>
+        <set>女</set>
+        <status>员工</status>
+        <address>上海</address>
+        <money>1000</money>
+    </worker>
+    <worker id="A003">
+        <name>lily</name>
+        <set>女</set>
+        <status>员工</status>
+        <address>北京</address>
+        <money>3000</money>
+    </worker>
+</workers>

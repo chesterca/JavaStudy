@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="Lib/opencsv-2.3.jar"/>
+	<classpathentry kind="lib" path="Lib/mysql-connector-java-5.1.42-bin.jar"/>
+	<classpathentry kind="lib" path="Lib/commons-io-2.5.jar"/>
+	<classpathentry kind="lib" path="Lib/poi-examples-3.17.jar"/>
+	<classpathentry kind="lib" path="Lib/poi-excelant-3.17.jar"/>
+	<classpathentry kind="lib" path="Lib/poi-ooxml-3.17.jar"/>
+	<classpathentry kind="lib" path="Lib/poi-ooxml-schemas-3.17.jar"/>
+	<classpathentry kind="lib" path="Lib/poi-scratchpad-3.17.jar"/>
+	<classpathentry kind="lib" path="Lib/commons-codec-1.10.jar"/>
+	<classpathentry kind="lib" path="Lib/commons-collections4-4.1.jar"/>
+	<classpathentry kind="lib" path="Lib/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="Lib/junit-4.12.jar"/>
+	<classpathentry kind="lib" path="Lib/log4j-1.2.17.jar"/>
+	<classpathentry kind="lib" path="Lib/oracle-driver-ojdbc6-12.1.0.1.jar"/>
+	<classpathentry kind="lib" path="Lib/dom4j-1.6.1.jar"/>
+	<classpathentry kind="lib" path="Lib/xmlbeans-2.6.0.jar"/>
+	<classpathentry kind="lib" path="Lib/jxl.jar"/>
+	<classpathentry kind="lib" path="Lib/poi-3.17.jar"/>
+	<classpathentry kind="lib" path="Lib/javax.mail-1.6.0.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
